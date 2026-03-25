@@ -40,12 +40,12 @@
 
 ---
 
-<!--
+--
 ## 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasaini2005&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adityasaini2005&theme=tokyonight)
--->
+--
 
 ---
 

@@ -10,7 +10,8 @@
 
 ## 🎥 Introduction Video
 
-✨ [Watch My Intro Video](https://drive.google.com/file/d/12atmbi_MHtgZEfliViv0qZOVlv9RH6BV/view?usp=sharing)
+🎬 **Watch my introduction video here:**  
+👉 [View Video](https://drive.google.com/file/d/12atmbi_MHtgZEfliViv0qZOVlv9RH6BV/view?usp=sharing)
 
 ---
 

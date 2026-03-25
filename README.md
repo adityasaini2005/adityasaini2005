@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Saini
 
-<!--
-**adityasaini2005/adityasaini2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;C%2B%2B+%7C+Python+Developer;Always+Learning" />
 
-Here are some ideas to get you started:
+🎓 BTech CSE (AI & ML) student at VIT Bhopal
+💻 Passionate about coding, AI, and problem solving
+🚀 Currently learning Machine Learning & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I'm Doing
+
+* 💡 Working on AI/ML projects
+* 🌱 Improving my development skills
+
+---
+
+## 🛠️ Skills
+
+* Languages: C++, Python, Java
+* Libraries: NumPy, Pandas
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: www.linkedin.com/in/adityasaini25032005
+* Email: adiandsonu@gmail.com
+
+---
+
+⭐ "Keep learning, keep building"

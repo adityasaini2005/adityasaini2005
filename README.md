@@ -8,6 +8,12 @@
 
 ---
 
+## 🎥 Introduction Video
+
+[![Watch My Intro](https://img.shields.io/badge/Watch%20My%20Intro-Video-blue?style=for-the-badge\&logo=google-drive)](https://your-drive-link-here)
+
+---
+
 ## 🔥 What I'm Doing
 
 * 💡 Building AI/ML based projects
@@ -40,6 +46,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adityasaini2005&theme=tokyonight)
 -->
+
 ---
 
 ## 📫 Connect with Me

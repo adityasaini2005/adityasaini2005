@@ -22,10 +22,10 @@
 
 ---
 
-## 📫 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/adityasaini25032005
-* Email: adiandsonu@gmail.com
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/adityasaini25032005)
+- [Email](mailto:adiandsonu@gmail.com)
 
 ---
 

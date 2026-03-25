@@ -10,7 +10,7 @@
 
 ## 🎥 Introduction Video
 
-[![Watch My Intro](https://img.shields.io/badge/Watch%20My%20Intro-Video-blue?style=for-the-badge\&logo=google-drive)](https://your-drive-link-here)
+[![Watch My Intro](https://img.shields.io/badge/Watch%20My%20Intro-Video-blue?style=for-the-badge\&logo=google-drive)]([https://your-drive-link-here](https://drive.google.com/file/d/12atmbi_MHtgZEfliViv0qZOVlv9RH6BV/view?usp=sharing))
 
 ---
 

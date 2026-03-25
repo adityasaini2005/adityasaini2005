@@ -24,8 +24,8 @@
 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/adityasaini25032005)
-- [Email](mailto:adiandsonu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasaini25032005)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:adiandsonu@gmail.com)
 
 ---
 
